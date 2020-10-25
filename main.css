@@ -5,8 +5,15 @@ body {
 
 h1 {
 	justify-content: center;
+	display: inline;
 }
-
+.title {
+	font-weight: bold;
+}
+.nav {
+	background-color: #f06292;
+	margin-left: 39%;
+}
 .container-fluid {
 	background-color: #f06292;
 	text-align: center;
