@@ -7,6 +7,12 @@ h1 {
 	justify-content: center;
 	display: inline;
 }
+
+.footer {
+	font-size: 8px;
+	margin-top: 100px;
+}
+
 .title {
 	font-weight: bold;
 }
@@ -18,22 +24,27 @@ h1 {
 	background-color: #f06292;
 	text-align: center;
 	padding: 10px;
+	box-shadow: 2px 5px 5px #669999;
 }
 
 .container {
 	text-align: center;
 	background-color: white;
 	border-radius: 5px;
-	padding: 15px;
+	padding: 35px;
 	margin-top: 30px;
+	box-shadow: 5px 10px 8px #669999;
 }
 
 .emily-material-card {
-	background-color: #FCE4EC;
-	padding: 15px;
-	width: 90%;
+	background-color: #FFFFFF;
+	padding: 25px;
+	width: 80%;
 	text-align: center;
-	border-radius: 10px;
-	margin: auto;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
 	box-sizing: border-box;
+	box-shadow: 5px 10px 8px #669999;
 }
